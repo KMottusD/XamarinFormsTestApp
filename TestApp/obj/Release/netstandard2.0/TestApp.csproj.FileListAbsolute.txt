@@ -1,0 +1,12 @@
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/bin/Release/netstandard2.0/TestApp.deps.json
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/bin/Release/netstandard2.0/TestApp.dll
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/bin/Release/netstandard2.0/TestApp.pdb
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.AssemblyInfoInputs.cache
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.AssemblyInfo.cs
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/XamlC.stamp
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.dll
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.pdb
+/Users/karlmac/Desktop/VSProjects/TestApp/TestApp/obj/Release/netstandard2.0/TestApp.csprojAssemblyReference.cache
